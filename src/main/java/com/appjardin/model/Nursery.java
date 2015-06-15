@@ -1,10 +1,10 @@
 package com.appjardin.model;
 
-public class Jardin {
+public class Nursery {
 	
 	private String name;
 
-	public Jardin(String name) {
+	public Nursery(String name) {
 		this.name = name;
 	}
 
